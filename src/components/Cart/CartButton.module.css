@@ -1,0 +1,22 @@
+.button {
+  color: #1ad1b9;
+
+  font: inherit;
+  font-size: 20px;
+  padding: 0.5rem 1.5rem;
+  background: transparent;
+  border-color: #1ad1b9;
+}
+.button:hover,
+.button:active {
+  color: aliceblue;
+}
+.button span {
+  margin: 0 0.25rem;
+}
+.badge {
+  background-color: #1ad1b9;
+  padding: 0.25rem 1rem;
+  color: #252424;
+  border-radius: 30px;
+}
